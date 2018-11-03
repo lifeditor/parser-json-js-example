@@ -33,7 +33,7 @@
         }
       }
     } catch (err) {
-      window.consile.log(err);
+      window.console.log(err);
       outputText = Msg.BAD_FORMAT;
     }
 
